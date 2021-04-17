@@ -13,5 +13,5 @@ Projeto desenvolvido em:
 
 ## 🖥️ Projeto
 
-Desenvolver uma página, sobre uma empresa que desenvolve site.
+Desenvolver uma página, sobre uma empresa que desenvolve sites.
 [DevChallenge](https://www.devchallenge.com.br/).
