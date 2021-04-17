@@ -1,0 +1,44 @@
+header{
+    margin: 2rem;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 4em ;
+}
+
+.menu h1 a{
+    font-style: italic;
+    color: var(--primary-color);
+}
+
+.menu h1 span{
+    color: black;
+}
+
+.menu nav{
+    display: flex;
+    align-items: center;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1em;
+}
+
+.menu button{ 
+    background-color: var(--primary-color);
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+    padding: .2em 2em;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.menu button:hover{
+    background-color: #a50a15;
+}

@@ -1,0 +1,50 @@
+main{
+    display: flex;
+    justify-content: space-around;
+    margin: 3rem;
+    padding: 4rem 0;
+    align-items: center;
+   
+}
+.services{
+    align-items: center;
+    margin-left: 4rem;
+}
+
+.services ul li span{
+    width: 100%;
+    padding: 0 4px;
+    margin: 1.5rem;
+    line-height: 2em;
+    color: white;
+    background-color: var(--primary-color);
+    border-radius: 50%;
+}
+
+.services p{
+    margin: 1rem 1.5rem;
+}
+
+.services input{ 
+    margin-left: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    background-color: #dfdfdf;
+}
+
+.services button{ 
+    padding: 0.5rem 2rem;
+    background-color: var(--primary-color);
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.services button:hover{
+    background-color: #a50a15;
+}
+
+.image img{
+    margin-right: 4rem;
+}

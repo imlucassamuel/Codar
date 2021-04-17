@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --primary-color:  #D6000D;
+
+}
+
+body,
+input,
+textarea,
+button {
+  font: 500 1em 'Roboto'; 
+  border: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
